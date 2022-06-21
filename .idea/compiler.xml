@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Chisel.iotesters" target="1.8" />
+      <module name="chisel3" target="1.8" />
+      <module name="dsptools" target="1.8" />
+      <module name="firrtl-interpreter" target="1.8" />
+      <module name="gemmini" target="1.8" />
+      <module name="rocket-dsptools" target="1.8" />
+      <module name="treadle" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

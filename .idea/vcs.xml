@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generators/ariane" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generators/boom" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generators/boom/src/main/scala/hmt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generators/gemmini" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generators/hwacha" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generators/icenet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generators/rocket-chip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generators/sha3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generators/sifive-blocks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generators/sifive-cache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generators/testchipip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tools/barstools" vcs="Git" />
+  </component>
+</project>

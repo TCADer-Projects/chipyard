@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Chisel.iotesters.iml" filepath="$PROJECT_DIR$/.idea/modules/Chisel.iotesters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LCMRoCCAccel.iml" filepath="$PROJECT_DIR$/.idea/modules/LCMRoCCAccel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ariane.iml" filepath="$PROJECT_DIR$/.idea/modules/ariane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/barstoolsMacros.iml" filepath="$PROJECT_DIR$/.idea/modules/barstoolsMacros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/boom.iml" filepath="$PROJECT_DIR$/.idea/modules/boom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chipyard.iml" filepath="$PROJECT_DIR$/.idea/modules/chipyard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chipyard-1-2.iml" filepath="$PROJECT_DIR$/.idea/modules/chipyard-1-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chipyard-1-2-build.iml" filepath="$PROJECT_DIR$/.idea/modules/chipyard-1-2-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chisel3.iml" filepath="$PROJECT_DIR$/.idea/modules/chisel3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chiselFrontend.iml" filepath="$PROJECT_DIR$/.idea/modules/chiselFrontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coreMacros.iml" filepath="$PROJECT_DIR$/.idea/modules/coreMacros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dsptools.iml" filepath="$PROJECT_DIR$/.idea/modules/dsptools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firechip.iml" filepath="$PROJECT_DIR$/.idea/modules/firechip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firesim.iml" filepath="$PROJECT_DIR$/.idea/modules/firesim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firesim-build.iml" filepath="$PROJECT_DIR$/.idea/modules/firesim-build.iml" group="sbt-build-modules" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firesimLib.iml" filepath="$PROJECT_DIR$/.idea/modules/firesimLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firrtl-interpreter.iml" filepath="$PROJECT_DIR$/.idea/modules/firrtl-interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gemmini.iml" filepath="$PROJECT_DIR$/.idea/modules/gemmini.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hardfloat.iml" filepath="$PROJECT_DIR$/.idea/modules/hardfloat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hwacha.iml" filepath="$PROJECT_DIR$/.idea/modules/hwacha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/icenet.iml" filepath="$PROJECT_DIR$/.idea/modules/icenet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mdf.iml" filepath="$PROJECT_DIR$/.idea/modules/mdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/midas.iml" filepath="$PROJECT_DIR$/.idea/modules/midas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/midas-targetutils.iml" filepath="$PROJECT_DIR$/.idea/modules/midas-targetutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rocket-dsptools.iml" filepath="$PROJECT_DIR$/.idea/modules/rocket-dsptools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rocketConfig.iml" filepath="$PROJECT_DIR$/.idea/modules/rocketConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rocketMacros.iml" filepath="$PROJECT_DIR$/.idea/modules/rocketMacros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rocketchip.iml" filepath="$PROJECT_DIR$/.idea/modules/rocketchip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sha3.iml" filepath="$PROJECT_DIR$/.idea/modules/sha3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared-sources.iml" filepath="$PROJECT_DIR$/.idea/modules/shared-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sifive_blocks.iml" filepath="$PROJECT_DIR$/.idea/modules/sifive_blocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sifive_cache.iml" filepath="$PROJECT_DIR$/.idea/modules/sifive_cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tapeout.iml" filepath="$PROJECT_DIR$/.idea/modules/tapeout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testchipip.iml" filepath="$PROJECT_DIR$/.idea/modules/testchipip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tracegen.iml" filepath="$PROJECT_DIR$/.idea/modules/tracegen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/treadle.iml" filepath="$PROJECT_DIR$/.idea/modules/treadle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilities.iml" filepath="$PROJECT_DIR$/.idea/modules/utilities.iml" />
+    </modules>
+  </component>
+</project>

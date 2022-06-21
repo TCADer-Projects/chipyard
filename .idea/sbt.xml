@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/generators/ariane" />
+            <option value="$PROJECT_DIR$/generators/boom" />
+            <option value="$PROJECT_DIR$/generators/chipyard" />
+            <option value="$PROJECT_DIR$/generators/firechip" />
+            <option value="$PROJECT_DIR$/generators/gemmini" />
+            <option value="$PROJECT_DIR$/generators/hwacha" />
+            <option value="$PROJECT_DIR$/generators/icenet" />
+            <option value="$PROJECT_DIR$/generators/rocc_simple_use_register" />
+            <option value="$PROJECT_DIR$/generators/rocket-chip/api-config-chipsalliance/build-rules/sbt" />
+            <option value="$PROJECT_DIR$/generators/rocket-chip/api-config-chipsalliance/design/craft" />
+            <option value="$PROJECT_DIR$/generators/rocket-chip/hardfloat" />
+            <option value="$PROJECT_DIR$/generators/rocket-chip/macros" />
+            <option value="$PROJECT_DIR$/generators/rocket-chip/src" />
+            <option value="$PROJECT_DIR$/generators/sha3" />
+            <option value="$PROJECT_DIR$/generators/sifive-blocks" />
+            <option value="$PROJECT_DIR$/generators/sifive-cache" />
+            <option value="$PROJECT_DIR$/generators/testchipip" />
+            <option value="$PROJECT_DIR$/generators/tracegen" />
+            <option value="$PROJECT_DIR$/generators/utilities" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/sims/firesim/sim" />
+            <option value="$PROJECT_DIR$/sims/firesim/sim/firesim-lib" />
+            <option value="$PROJECT_DIR$/sims/firesim/sim/midas" />
+            <option value="$PROJECT_DIR$/sims/firesim/sim/midas/targetutils" />
+            <option value="$PROJECT_DIR$/sims/firesim/sim/project" />
+            <option value="$PROJECT_DIR$/tools/barstools/macros" />
+            <option value="$PROJECT_DIR$/tools/barstools/mdf/scalalib" />
+            <option value="$PROJECT_DIR$/tools/barstools/tapeout" />
+            <option value="$PROJECT_DIR$/tools/chisel-testers" />
+            <option value="$PROJECT_DIR$/tools/chisel3" />
+            <option value="$PROJECT_DIR$/tools/chisel3/chiselFrontend" />
+            <option value="$PROJECT_DIR$/tools/chisel3/coreMacros" />
+            <option value="$PROJECT_DIR$/tools/dsptools" />
+            <option value="$PROJECT_DIR$/tools/dsptools/rocket" />
+            <option value="$PROJECT_DIR$/tools/firrtl-interpreter" />
+            <option value="$PROJECT_DIR$/tools/treadle" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.2.8" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
